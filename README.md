@@ -2,4 +2,4 @@
 
 ![./01.png](TIE Fighter)
 
-Este repositório serve de exemplo para o curso de Git e GitHub.
+Este repositÃ³rio serve de exemplo para o curso de Git e GitHub.
